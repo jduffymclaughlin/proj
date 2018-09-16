@@ -29,7 +29,7 @@ SECRET_KEY = 'ac#njd))4n573f6ojom*^^4oe%8tvhec(1l%9y0yit1zibnuw%'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["www.samamassages.com", "www.pythonanywhere.com",]
 
 
 # Application definition
