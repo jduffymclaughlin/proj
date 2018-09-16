@@ -26,7 +26,7 @@ a:hover {
 
 html,
 body {
-  height: 100%;
+  background-size: auto;
   /* background-color: #dabded; */
   background-image: radial-gradient(#e9dbf3,#dabded, #322359);
   /* background-image: linear-gradient(to bottom right,#dabded, #322359); */
@@ -49,7 +49,6 @@ body {
 #img1 {
   width:533px;
   height:400px;
-
 }
 #img2 {
   width:533px;
@@ -61,10 +60,10 @@ body {
   height:400px;
 
 }
-.carousel-inner > .item > img {
+/* .carousel-inner > .item > img {
   width:640px;
   height:360px;
-}
+} */
 
 .cover-container {
   max-width: 42em;
